@@ -6,4 +6,8 @@ This is my private repo for exploring.
 
 Oh, look at me updating this doc, woho!
 
+## Local development
+
+1. Open index.html in your browser
+
 # Bye
